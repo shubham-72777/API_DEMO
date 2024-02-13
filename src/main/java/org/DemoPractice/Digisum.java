@@ -2,6 +2,8 @@ package org.DemoPractice;
 
 public class Digisum {
     public static void main(String[] args) {
+
+        System.out.println("THIS IS DIGI SUM");
 //        int a = 164;
 //
 //        while (a > 9) {
